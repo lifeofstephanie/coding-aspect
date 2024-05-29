@@ -1,0 +1,23 @@
+.nav a{
+    text-decoration: none;
+    color: white;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.header{
+    display: flex;
+    gap: 100px;
+}
+body{
+    background-image: url('images/desert.jpg');
+    background-size:cover;
+    color: white;
+}
+.body h2{
+    text-transform: uppercase;
+}
